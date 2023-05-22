@@ -1,3 +1,5 @@
+rem samp-lenhador - by: proxlu
+
 @if (@CodeSection == @Batch) @then
 
 @echo off
